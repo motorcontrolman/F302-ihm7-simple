@@ -1,0 +1,10 @@
+main.c:81:5:main	8	static
+main.c:131:6:SystemClock_Config	120	static
+main.c:177:13:MX_ADC1_Init	32	static
+main.c:232:13:MX_TIM1_Init	112	static
+main.c:320:13:MX_USART2_UART_Init	8	static
+main.c:355:13:MX_GPIO_Init	48	static
+main.c:394:6:user_tim1Ch1_pwm_setvalue	48	static
+main.c:408:6:user_tim1Ch2_pwm_setvalue	48	static
+main.c:423:6:user_tim1Ch3_pwm_setvalue	48	static
+main.c:443:6:Error_Handler	4	static
